@@ -1,8 +1,4 @@
 
-Siddharth Sahay <siddharthsahay.ai22@bmsce.ac.in>
-3:41 PM (2 minutes ago)
-to me
-
 import numpy as np
 
 def initialize_weights(input_size, hidden_sizes, output_size):
